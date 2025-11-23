@@ -82,8 +82,8 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 ### 11. Visualize Accuracy & Loss
 ![img alt]()
 
-### 12. Plotting the results
-![img alt]()
+### 12. Baseline Model Result
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/e6a93d5e0ceecf3638422a20a6f6e466aa7b6061/baseline%20model%20results.png)
 
 ## 📊 Results
 * Achieved high accuracy depending on training duration & dataset.

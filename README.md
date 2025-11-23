@@ -65,7 +65,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 ![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/1563c5da63940d38c33855cb9615719d8ad6f4a8/i4.png)
 
 ### 7. Confusion matrix for the baseline model
-![img alt]()
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/0220a6d880449f8016088501e1656edbfdd45cd4/i5.png)
 
 ### 8. Build Deep Learning Model
 ```python

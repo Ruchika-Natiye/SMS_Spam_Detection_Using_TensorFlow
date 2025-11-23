@@ -54,7 +54,7 @@ df.columns = ['label', 'message']
 sns.countplot(x=df['label'])
 plt.show()
 ```
-![img alt]()
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/4cbcd3006976a9e762bd00880ed0efdc8153ba0b/i3.png)
 
 ### 5. Train‑Test Split
 Divides dataset for training and testing.

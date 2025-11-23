@@ -20,7 +20,7 @@ The goal of this project is to build a text‑classification model that detects 
 The project uses the classic SMS Spam Collection Dataset.It contains ~5,500 SMS messages labeled as spam or ham.
 Sample:
 
-![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/f86b2f506f1347f6248e6a0c5a1786f86ea4a701/i1.png)
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/2d69bf6347265acd2c3a2c1fa729757c23743b58/i2.jpg)
 
 ## 🧰 Tech Stack
 | Category | Tools |

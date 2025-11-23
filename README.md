@@ -76,6 +76,7 @@ model = tf.keras.Sequential([vectorizer,tf.keras.layers.Embedding(input_dim=5000
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 ### 10. Summary of Model
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/ec99747ad4d897c5e579f7ca4cc7f926a7f9e312/summary%20of%20model1.png)
 ![img alt]()
 
 ### 11. Visualize Accuracy & Loss

@@ -47,7 +47,7 @@ df = df[['v1', 'v2']]
 df.columns = ['label', 'message']
 ```
 ### 3. Data Preprocessing
-![img alt]()
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/f86b2f506f1347f6248e6a0c5a1786f86ea4a701/i1.png)
 
 ### 4. Visualize Ham & Spam Data
 ```python

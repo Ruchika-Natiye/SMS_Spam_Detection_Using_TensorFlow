@@ -62,7 +62,7 @@ Divides dataset for training and testing.
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y) print("Train / Test shapes:", X_train.shape, y_train.shape, X_test.shape, y_test.shape)
 ```
 ### 6. Performance of baseline model
-![img alt]()
+![img alt](https://github.com/Ruchika-Natiye/SMS_Spam_Detection_Using_TensorFlow/blob/1563c5da63940d38c33855cb9615719d8ad6f4a8/i4.png)
 
 ### 7. Confusion matrix for the baseline model
 ![img alt]()
